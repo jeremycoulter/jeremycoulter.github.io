@@ -1,0 +1,20 @@
+/*!
+ * gladstonebrews v0.0.1 (https://github.com/jeremycoulter/gladstonebrews)
+ * Copyright 2019 Jeremy Coulter (https://jeremycoulter.github.io)
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ */
+
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
