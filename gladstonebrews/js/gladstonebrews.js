@@ -7,7 +7,7 @@
 /*
  * constants
  */
-var CURRENT_VERSION = "0.0.1";
+var CURRENT_VERSION = "0.0.2";
 
 printCurrentVersion();
 printCopyrightYear();
